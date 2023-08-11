@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Namita</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=namita-namita&label=Profile%20views&color=0e75b6&style=flat" alt="namita-namita" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namita-namita" alt="namita-namita" /></a> </p>
 
 - 🔭 I’m currently working on [Creating Expense tracker with SpringBoot](https://github.com/Namita-Namita/Expense_Tracker)
 
@@ -68,7 +71,7 @@
 
 </td></tr></table>  
 
-<br/>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namita-namita&" alt="namita-namita" /></p> 
 
 <!--
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
