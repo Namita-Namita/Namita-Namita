@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **namitaroy63.nr@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/namita-namita/overlay/1635536655684/single-media-viewer/?type=DOCUMENT&profileId=ACoAACGLnHQB72C2x0rImBtKpsskCpnH0gg8_xw](https://www.linkedin.com/in/namita-namita/overlay/1635536655684/single-media-viewer/?type=DOCUMENT&profileId=ACoAACGLnHQB72C2x0rImBtKpsskCpnH0gg8_xw)
+- 📄 Know about my experiences https://www.linkedin.com/in/namita-namita/details/featured/1635539107362/single-media-viewer/?profileId=ACoAACGLnHQB72C2x0rImBtKpsskCpnH0gg8_xw
 - ⚡ Fun fact **I love to create mandala art.**
 
 <h3 align="left">Connect with me:</h3>
