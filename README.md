@@ -16,6 +16,10 @@
 
 - 📄 Know about my experiences https://www.linkedin.com/in/namita-namita/details/featured/1635539107362/single-media-viewer/?profileId=ACoAACGLnHQB72C2x0rImBtKpsskCpnH0gg8_xw
 - ⚡ Fun fact **I love to create mandala art.**
+<img src=https://github.com/Namita-Namita/Namita-Namita/assets/31967922/3df81b51-1aa9-4556-862c-64769ceece92 height="350" />
+<img src=https://github.com/Namita-Namita/Namita-Namita/assets/31967922/4d49dc63-75e1-4c46-9ceb-4e1906898648 height="350"/>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
